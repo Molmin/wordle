@@ -12,8 +12,8 @@ settings: 基本設定
 # Login
 login_username: ニックネーム
 login_password: パスワード
-cannot_find_user: This user cannot be found.
-password_error: パスワード不正解.
+cannot_find_user: ユーザーが存在しません。
+password_error: パスワード不正解。
 
 # Settings
 change_headimage: アイコン設定
